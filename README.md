@@ -10,10 +10,9 @@ To manage plugin you have lots of options like:
 
 [vim-plug](https://github.com/junegunn/vim-plug)
 
-[lazy.nvim](https://github.com/folke/lazy.nvim)
+[*][lazy.nvim](https://github.com/folke/lazy.nvim)
 
-I choosed lazy nvim!
 
 To exploring the files:
 
-[nvim-tree](https://github.com/nvim-tree/nvim-tree.lua)
+[*][nvim-tree](https://github.com/nvim-tree/nvim-tree.lua)
