@@ -1,11 +1,13 @@
-### Setup NeoVim as working handy IDE
+### Setup [NeoVim](https://neovim.io) as working handy IDE
 
 ```Bash
 sudo apt install neovim
 ```
 
-To manage plugin:
+To manage plugin you have lots of options like:
 
-[VIM PLUG](https://github.com/junegunn/vim-plug)
+[vim-plug](https://github.com/junegunn/vim-plug)
 
-[PACKER](https://github.com/wbthomason/packer.nvim)
+[lazy.nvim](https://github.com/folke/lazy.nvim)
+
+I choosed lazy nvim!
