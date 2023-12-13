@@ -26,3 +26,6 @@ with this instruction on linux:
 ```bash
 cd /usr/share/fonts/ && curl -fLO https://github.com/ryanoasis/nerd-fonts/raw/HEAD/patched-fonts/DroidSansMono/DroidSansMNerdFont-Regular.otf
 ```
+
+For Color Scheme:
+https://github.com/folke/tokyonight.nvim
