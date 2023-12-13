@@ -29,3 +29,25 @@ cd /usr/share/fonts/ && curl -fLO https://github.com/ryanoasis/nerd-fonts/raw/HE
 
 For Color Scheme:
 https://github.com/folke/tokyonight.nvim
+
+
+
+
+
+
+
+
+
+
+
+---------------------
+
+Worth to see following links:
+
+https://spacevim.org/
+
+https://github.com/mhinz/vim-galore
+
+https://github.com/rockerBOO/awesome-neovim
+
+https://github.com/rafi/awesome-vim-colorschemes    
