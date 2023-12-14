@@ -6,16 +6,9 @@ cd ~/.config
 git clone https://github.com/amir-h-rassafi/nvim-setup
 ```
 
-To manage plugin you have lots of options like:
-
-[vim-plug](https://github.com/junegunn/vim-plug)
-
 [lazy.nvim](https://github.com/folke/lazy.nvim)
 
-
-To exploring the files:
-
-[nvim-tree](https://github.com/nvim-tree/nvim-tree.lua)
+[neo-tree](https://github.com/nvim-neo-tree/neo-tree.nvim)
 
 For this you need to install Font:
 
@@ -28,17 +21,13 @@ cd /usr/share/fonts/ && curl -fLO https://github.com/ryanoasis/nerd-fonts/raw/HE
 ```
 
 For Color Scheme:
-https://github.com/folke/tokyonight.nvim
 
+[tokyonigt](https://github.com/folke/tokyonight.nvim),
+[kanagawa](https://github.com/rebelot/kanagawa.nvim)
 
+LSP:
 
-
-
-
-
-
-
-
+[coc](https://github.com/neoclide/coc.nvim)
 
 ---------------------
 
