@@ -4,6 +4,7 @@
 snap install --beta nvim --classic
 cd ~/.config
 git clone https://github.com/amir-h-rassafi/nvim-setup
+ln -s ~/.config/nvim-setup/nvim ./nvim
 ```
 
 [lazy.nvim](https://github.com/folke/lazy.nvim)
