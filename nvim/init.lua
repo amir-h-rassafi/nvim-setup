@@ -15,4 +15,5 @@ require("lazy").setup("plugins")
 
 vim.cmd[[colorscheme tokyonight-night]]
 vim.cmd[[:set number]]
-vim.cmd[[:Neotree]]
+vim.cmd[[:Neotree position=current]]
+

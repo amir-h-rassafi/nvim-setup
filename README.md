@@ -34,6 +34,8 @@ LSP:
 
 Worth to see following links:
 
+https://www.lazyvim.org/
+
 https://spacevim.org/
 
 https://github.com/mhinz/vim-galore
