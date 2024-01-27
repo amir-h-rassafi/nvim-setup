@@ -16,3 +16,6 @@ require("lazy").setup("plugins")
 vim.cmd[[colorscheme tokyonight-night]]
 vim.cmd[[:set number]]
 
+
+vim.api.nvim_set_keymap('n', '<C-S>', '<cmd>Telescope live_grep<CR>', { noremap = true, silent = true })
+
