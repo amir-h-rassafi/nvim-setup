@@ -16,6 +16,11 @@ require("lazy").setup("plugins")
 vim.cmd[[colorscheme tokyonight-night]]
 vim.cmd[[:set number]]
 
+vim.opt.tabstop = 4
+vim.opt.shiftwidth = 4
+
+vim.opt.list = true
+vim.opt.listchars = "tab:―― ,space:."
 
 vim.api.nvim_set_keymap('n', '<C-S>', '<cmd>Telescope live_grep<CR>', { noremap = true, silent = true })
 vim.api.nvim_set_keymap('n', '<C-F>', '<cmd>Telescope find_files<CR>', { noremap = true, silent = true })
