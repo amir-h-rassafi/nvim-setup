@@ -42,4 +42,9 @@ https://github.com/mhinz/vim-galore
 
 https://github.com/rockerBOO/awesome-neovim
 
-https://github.com/rafi/awesome-vim-colorschemes    
+https://github.com/rafi/awesome-vim-colorschemes
+
+---------------------
+Nice setup.
+
+https://nvchad.com/
