@@ -31,4 +31,4 @@ vim.api.nvim_set_keymap('n', '<C-S>', '<cmd>Telescope live_grep<CR>', { noremap 
 vim.api.nvim_set_keymap('n', '<C-F>', '<cmd>Telescope find_files<CR>', { noremap = true, silent = true })
 vim.api.nvim_set_keymap('n', '<C-T>', '<cmd>:tabnew<CR>', { noremap = true, silent = true })
 vim.api.nvim_set_keymap('n', '<C-J>', '<cmd>:Neotree reveal<CR>', { noremap = true, silent = true })
-vim.api.nvim_set_keymap('n', '<C-W>', '<cmd>:q<CR>', {noremap = true, silent = true })
+vim.api.nvim_set_keymap('n', '<C-W>', '<cmd>:q!<CR>', {noremap = true, silent = true })
