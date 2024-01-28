@@ -57,3 +57,9 @@ https://nvchad.com/
 ## TODO
 
 - Add makefile to install automaticly.
+
+- Add notify
+
+- Integrate fuzzy search in neo tree
+
+- Integrate preview readme
