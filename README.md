@@ -51,3 +51,9 @@ https://tree-sitter.github.io/tree-sitter/
 Nice setup.
 
 https://nvchad.com/
+
+
+
+## TODO
+
+- Add makefile to install automaticly.
