@@ -7,9 +7,11 @@ git clone https://github.com/amir-h-rassafi/nvim-setup
 ln -s ~/.config/nvim-setup/nvim ./nvim
 ```
 
-[lazy.nvim](https://github.com/folke/lazy.nvim)
+```
+sudo apt install watchman
+```
 
-[neo-tree](https://github.com/nvim-neo-tree/neo-tree.nvim)
+[lazy.nvim](https://github.com/folke/lazy.nvim)
 
 For this you need to install Font:
 
