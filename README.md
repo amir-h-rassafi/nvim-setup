@@ -44,6 +44,7 @@ https://github.com/rockerBOO/awesome-neovim
 
 https://github.com/rafi/awesome-vim-colorschemes
 
+https://tree-sitter.github.io/tree-sitter/
 ---------------------
 Nice setup.
 
